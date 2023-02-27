@@ -43,7 +43,7 @@
 //     { name: "Dave", grade: 85 }
 //     ];
     
-//   // const result = students.map(({ grade }) => grade).fill(100);
+//   // const result = students.fill(100);
 //   const result = students.fill(100);
   
 //   console.log(result);
